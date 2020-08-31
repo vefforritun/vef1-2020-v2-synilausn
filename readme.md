@@ -11,9 +11,7 @@ Allar síður fyrir utan forsíðu skulu vera innan `pages/` möppu, sjá gefið
 
 ## Forsíða
 
-* Forsíða, `index.html`, með einhverjum texta ásamt tengli yfir á aðra síðu
-* Síða um nemanda, `about.html`, þar sem fram kemur nafn, netfang og mynd (þurfa ekki að vera þínar upplýsingar!) ásamt tengli yfir á forsíðu
-  - Mynd skal geymd í möppu sem heitir `img/`
+Inniheldur titil, valmynd og ekkert meira (nema þið viljið skrifa eitthvað um veðrið.)
 
 ## Valmynd
 
@@ -61,7 +59,7 @@ Fyrir neðan texta skal vera lína (`<hr>`) og eftirfarandi texti:
 
 og skal textinn tengja í `https://www.vedur.is/vedur/frodleikur/greinar/nr/2532`.
 
-Vísað er í myndir undir img/, mynd er fengin frá WikiMedia Commons. Laga þarf slóð á mynd á HTML skrá, ekki skal færa img/ möppu. Titill myndar í Markdown skjali skal birta fyrir neðan mynd, [sjá hvernig birting er á upprunalegu grein](https://www.vedur.is/vedur/frodleikur/greinar/nr/2532) (ekki þarf að láta mynd birtast til hliðar).
+Vísað er í myndir undir img/. Laga þarf slóð á mynd á HTML skrá, ekki skal færa img/ möppu. Titill myndar í Markdown skjali skal birta fyrir neðan mynd, [sjá hvernig birting er á upprunalegu grein](https://www.vedur.is/vedur/frodleikur/greinar/nr/2532) (ekki þarf að láta mynd birtast til hliðar).
 
 ## Almennt
 
@@ -91,7 +89,7 @@ Verkefni sett fyrir í fyrirlestri mánudaginn 31. ágúst 2020.
 
 ## Skil
 
-Skila skal í Canvas í seinasta lagi fyrir lok dags mánudaginn 8. september 2020.
+Skila skal í Canvas í seinasta lagi fyrir lok dags föstudaginn 11. september 2020.
 
 Skilaboð skulu innihalda slóð á verkefni ásamt zip skjali með lausn.
 
@@ -108,3 +106,4 @@ Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20
 | Útgáfa | Lýsing                              |
 |--------|-------------------------------------|
 | 0.1    | Fyrsta útgáfa                       |
+| 0.2    | Uppfæra skiladag, bæta við skjáskotum                       |
